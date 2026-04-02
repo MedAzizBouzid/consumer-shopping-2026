@@ -1,0 +1,15 @@
+data/raw/*
+data/interim/*
+data/processed/*
+!data/**/.gitkeep
+__pycache__/
+*.pyc
+.env
+*.egg-info/
+.pytest_cache/
+htmlcov/
+.coverage
+.ipynb_checkpoints/
+mlruns/
+models/
+.DS_Store
